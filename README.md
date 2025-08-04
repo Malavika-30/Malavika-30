@@ -25,7 +25,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-🔭 I’m currently working on: <strong>CureWell – A Complete Digital Healthcare Platform</strong><br><br>
+🔭 I’m currently working on: <strong> Rubix Cube solver </strong><br><br>
 🧑‍🏫 Built real-world projects using <strong>React, Firebase, and Machine Learning</strong><br><br>
 🌱 Learning more about <strong>Advanced React concepts</strong> (Hooks, Context, Redux Toolkit),  <strong>Machine Learning & Deep Learning with Python</strong><br><br>
 ⚡ Fun Fact: I love turning ideas into real-world apps that solve everyday problems!
